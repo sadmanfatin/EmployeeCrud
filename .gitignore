@@ -31,3 +31,8 @@ build/
 
 ### VS Code ###
 .vscode/
+*.class
+*.class
+bin/src/main/java/com/example/EmployeeCrud/EmployeeCrudApplication.class
+*.log
+bin/pom.xml
